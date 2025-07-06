@@ -1,4 +1,4 @@
-Hello World!
+Welcome to the "Git for Beginner" MyProject!
 
 
 Twitter: @abcajbds Singh Huber
