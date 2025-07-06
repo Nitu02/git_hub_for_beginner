@@ -4,4 +4,4 @@ Welcome to the "Git for Beginner" MyProject!
 Twitter: @abcajbds Singh Huber
 
 Author: Abc;
-website: "www.google.com"
+website: https://www.google.com
